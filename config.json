@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcender",
+        "uuid": 13833369,
+        "checksum": "jcogw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
